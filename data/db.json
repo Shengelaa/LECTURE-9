@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Almonds, Unsalted, in the blue bag",
+      "size": "Small",
+      "price": 5.99,
+      "ingredients": ["Almonds", "Basil"]
+    },
+    {
+      "id": "2",
+      "name": "Margherita",
+      "size": "Medium",
+      "price": 12.99,
+      "ingredients": ["Tomato", "Basil", "Mozzarella", "Dough"]
+    },
+    {
+      "id": "3",
+      "name": "Bread",
+      "size": "Large",
+      "price": 3.49,
+      "ingredients": ["Flour", "Water", "Yeast", "Salt"]
+    }
+  ]
+}
